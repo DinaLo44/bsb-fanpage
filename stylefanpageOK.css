@@ -1,0 +1,37 @@
+body {background-color:lightyellow}
+
+h1 {font-size: xx-large;
+    text-decoration: underline;
+    text-align:center;
+    color:blue;
+    background-color:greenyellow
+}
+
+h2 {
+    color:blue;
+    background-color:greenyellow;
+}
+
+p {color:blue;}
+
+table {color:blue;}
+
+ul {color:blue;}
+
+#first {text-align: center}
+
+.mainimage {display: block;
+            margin-left: auto;
+            margin-right: auto;
+}
+
+h2 {font-size: x-large;
+    
+}
+
+
+.mainvideo {display:block;
+            margin-left:auto;
+            margin-right:auto;
+        }
+
